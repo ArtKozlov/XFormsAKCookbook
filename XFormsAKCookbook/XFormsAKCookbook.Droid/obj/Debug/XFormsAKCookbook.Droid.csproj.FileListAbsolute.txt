@@ -1,0 +1,108 @@
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\XFormsContosoCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\XFormsContosoCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\com.xamarin.contosocookbook.apk
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\com.xamarin.contosocookbook-Signed.apk
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\FormsViewGroup.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\XFormsContosoCookbook.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\XFormsContosoCookbook.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\FormsViewGroup.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.csprojResolveAssemblyReference.cache
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.csproj.CoreCompileInputs.cache
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\XFormsContosoCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\XFormsContosoCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\android\bin\com.xamarin.contosocookbook.apk
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\res\drawable\icon.png
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\R.cs.flag
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\obj\Debug\uploadflags.txt
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook.Droid\bin\Debug\XFormsContosoCookbook.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsContosoCookbook\XFormsContosoCookbook\XFormsContosoCookbook\bin\Debug\XFormsContosoCookbook.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsAKCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsAKCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\com.xamarin.akcookbook.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\com.xamarin.akcookbook-Signed.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\FormsViewGroup.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Core.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsAKCookbook.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Newtonsoft.Json.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsAKCookbook.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\FormsViewGroup.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\FormsViewGroup.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Core.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\Newtonsoft.Json.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.csprojResolveAssemblyReference.cache
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.csproj.CoreCompileInputs.cache
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\XFormsAKCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\android\bin\com.xamarin.akcookbook.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\res\drawable\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\res\drawable-hdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\R.cs.flag
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Debug\uploadflags.txt
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsContosoCookbook.Droid.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Debug\XFormsAKCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook\bin\Debug\XFormsAKCookbook.dll
+bin\Debug\XFormsAKCookbook.dll.mdb
+obj\Debug\linksrc\XFormsAKCookbook.Droid.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\XFormsAKCookbook.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb

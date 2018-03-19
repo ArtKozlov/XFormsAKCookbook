@@ -1,0 +1,62 @@
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\com.xamarin.akcookbook.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\com.xamarin.akcookbook-Signed.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\FormsViewGroup.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Core.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Platform.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Newtonsoft.Json.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\FormsViewGroup.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\FormsViewGroup.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Core.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Core.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Core.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Platform.Android.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Xaml.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\Newtonsoft.Json.xml
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\XFormsAKCookbook.Droid.csprojResolveAssemblyReference.cache
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\XFormsAKCookbook.Droid.csproj.CoreCompileInputs.cache
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\XFormsAKCookbook.Droid.dll
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\XFormsAKCookbook.Droid.pdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\bin\com.xamarin.akcookbook.apk
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\res\drawable\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\res\drawable-hdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\res\drawable-xhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\res\drawable-xxhdpi\icon.png
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\R.cs.flag
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\uploadflags.txt
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsContosoCookbook.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsContosoCookbook.Droid.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\FormsViewGroup.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\XFormsContosoCookbook.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\XFormsContosoCookbook.Droid.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.Droid.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\XFormsAKCookbook.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\obj\Release\android\assets\XFormsAKCookbook.Droid.dll.mdb
+D:\University\Master_Degree\2 sem\XFormsAKCookbook\XFormsAKCookbook\XFormsAKCookbook.Droid\bin\Release\XFormsAKCookbook.Droid.dll
+bin\Release\XFormsAKCookbook.dll.mdb
+obj\Release\linksrc\XFormsAKCookbook.Droid.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\XFormsAKCookbook.dll.mdb
